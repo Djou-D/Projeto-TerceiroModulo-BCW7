@@ -1,6 +1,6 @@
 Projeto em equipe,do modulo jQuery do curso fullStack de desenvolvimento Web da SoulCode.
 
-Link: https://djou-d.github.io/Projeto-Funk-Po/
+Link: https://djou-d.github.io/Projeto-TerceiroModulo-BCW7/
 
 Equipe:
 
